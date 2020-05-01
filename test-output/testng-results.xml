@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18283" started-at="2020-04-22T14:23:02Z" finished-at="2020-04-22T14:23:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18283" started-at="2020-04-22T14:23:02Z" finished-at="2020-04-22T14:23:21Z">
+      <class name="com.qa.hubspot.test.LogingPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.hubspot.test.LogingPageTest@ae45eb6]" name="setUp" is-config="true" duration-ms="15557" started-at="2020-04-22T14:23:02Z" finished-at="2020-04-22T14:23:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyLoginPageTitleTest()[pri:1, instance:com.qa.hubspot.test.LogingPageTest@ae45eb6]" name="verifyLoginPageTitleTest" duration-ms="21" started-at="2020-04-22T14:23:18Z" finished-at="2020-04-22T14:23:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPageTitleTest -->
+        <test-method status="PASS" signature="verifySignupLinkTest()[pri:2, instance:com.qa.hubspot.test.LogingPageTest@ae45eb6]" name="verifySignupLinkTest" duration-ms="217" started-at="2020-04-22T14:23:18Z" finished-at="2020-04-22T14:23:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySignupLinkTest -->
+        <test-method status="PASS" signature="verifyloginTest()[pri:3, instance:com.qa.hubspot.test.LogingPageTest@ae45eb6]" name="verifyloginTest" duration-ms="1198" started-at="2020-04-22T14:23:18Z" finished-at="2020-04-22T14:23:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyloginTest -->
+        <test-method status="PASS" signature="teatDown()[pri:0, instance:com.qa.hubspot.test.LogingPageTest@ae45eb6]" name="teatDown" is-config="true" duration-ms="1228" started-at="2020-04-22T14:23:19Z" finished-at="2020-04-22T14:23:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teatDown -->
+      </class> <!-- com.qa.hubspot.test.LogingPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
